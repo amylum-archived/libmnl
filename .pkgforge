@@ -11,7 +11,8 @@ deps(
 )
 
 configure_flags(
-  prefix: '/usr'
+  prefix: '/usr',
+  'enable-static': nil
 )
 
 cflags
