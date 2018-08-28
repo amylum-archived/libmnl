@@ -1,7 +1,7 @@
 libmnl
 ==========
 
-[![Build Status](https://img.shields.io/circleci/project/amylum/libmnl/master.svg)](https://circleci.com/gh/amylum/libmnl)
+[![Build Status](https://img.shields.io/travis/com/amylum/libmnl.svg)](https://travis-ci.com/amylum/libmnl)
 [![GitHub release](https://img.shields.io/github/release/amylum/libmnl.svg)](https://github.com/amylum/libmnl/releases)
 [![LGPL2.1 Licensed](http://img.shields.io/badge/license-LGPL2.1-green.svg)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v2.1-(lgpl-2.1))
 
